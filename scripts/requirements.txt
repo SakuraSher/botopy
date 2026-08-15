@@ -9,8 +9,8 @@ aws lambda publish-layer-version \
   --compatible-architectures x86_64 \
   --region ap-south-1
 
-DB_HOST = 
-DB_PORT = "5432"
-DB_NAME = postgres
-DB_USER = postgres
-DB_PASSWORD = password123!
+# DB_HOST = 
+# DB_PORT = "5432"
+# DB_NAME = postgres
+# DB_USER = postgres
+# DB_PASSWORD = password123!
